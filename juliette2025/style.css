@@ -1,0 +1,19 @@
+h1 {
+    color: cornflowerblue;
+    text-shadow: 2px 0px 0px;
+    
+}
+p{
+    color: black;
+}
+h2{
+    color: hwb(283 16% 8%);
+    text-shadow: 1px 0px 0px;
+}
+h4{
+    color: darkmagenta;
+}
+li{
+    color: rgb(176, 3, 211);
+    
+}
